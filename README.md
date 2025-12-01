@@ -1,2 +1,2 @@
 # vntree-js
-A simple tree data structure in Javascript.
+A simple tree data structure in modern Javascript.
